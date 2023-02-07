@@ -4,7 +4,7 @@
 
 ### Software
 
-1. [`dscore`: D-Score for Child Development](https://d-score.org/dscore/)
+1. [`dscore`: D-score for Child Development](https://d-score.org/dscore/)
 2. [`gsedread`: Tools for reading GSED validation data](https://d-score.org/gsedread/)
 3. [`gsedscripts`: Analysis scripts for GSED validation data](https://d-score.org/gsedscripts/)
 
@@ -22,9 +22,9 @@
 1. van Buuren S, Eekhout I. *Child development with the D-score: turning milestones into measurement*. [Gates Open Research](https://gatesopenresearch.org/articles/5-81), (5), 81, 2021. DOI: 10.12688/gatesopenres.13222.2. [Screen friendly](https://d-score.org/dbook1/).
 2. Eekhout I, van Buuren S. *Child development with the D-score: tuning instruments to unity. [Gates Open Research](https://gatesopenresearch.org/articles/5-86), (5), 86, 2021. DOI: 10.12688/gatesopenres.13223.1. [Screen friendly](https://d-score.org/dbook2/).
 
-### D-score articles
+### Articles
 
 1. Jacobusse G, van Buuren S, Verkerk PH. *An interval scale for development of children aged 0-2 years*. Statistics in Medicine, 25(13), 2272--2283, 2006. [pdf](https://stefvanbuuren.name/publications/Interval%20scale%20-%20Stat%20Med%202006.pdf)
-2. Jacobusse G, van Buuren S. Computerized adaptive testing for measuring development of young children. Statistics in Medicine, 13(26), 2629--2638, 2007. [pdf](https://stefvanbuuren.name/publications/CAT%20for%20development%20-%20Stat%20Med%202007.pdf)
+2. Jacobusse G, van Buuren S. *Computerized adaptive testing for measuring development of young children*. Statistics in Medicine, 13(26), 2629--2638, 2007. [pdf](https://stefvanbuuren.name/publications/CAT%20for%20development%20-%20Stat%20Med%202007.pdf)
 3. van Buuren S. *Growth charts of human development*. Statistical Methods in Medical Research, 23(4), 346--368, 2014. [pdf](https://stefvanbuuren.name/publications/2014%20Growth%20charts%20for%20development%20-%20SMMR.pdf)
-
+4. Weber AM, Rubio-Codina M, Walker SP, van Buuren S, Eekhout I, Grantham-McGregor S, Araujo MC, Chang SM, Fernald LCH, Hamadani JD, Hanlon C, Karam SM, Lozoff B, Ratsifandrihamanana, L, Richter L, Black MM, Child Development Group collaborators. *The D-Score: A Metric for Interpreting the Early Development of Infants and Toddlers Across Global Settings*. BMJ Global Health 4: e001724. [pdf](https://gh.bmj.com/content/bmjgh/4/6/e001724.full.pdf)
