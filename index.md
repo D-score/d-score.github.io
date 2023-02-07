@@ -6,7 +6,7 @@
 
 1. [`dscore`: D-score for Child Development](https://d-score.org/dscore/)
 2. [`gsedread`: Tools for reading GSED validation data](https://d-score.org/gsedread/)
-3. [`gsedscripts`: Analysis scripts for GSED validation data](https://d-score.org/gsedscripts/)
+3. [`gsedscripts`: Analysis scripts for GSED validation data](https://github.com/D-score/gsedscripts)
 
 ### Vignettes
 
