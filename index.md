@@ -1,33 +1,30 @@
-## Resources
-
 ### Services
 
-[D-score calculator](http://tnochildhealthstatistics.shinyapps.io/dcalculator/)
-
-### Books
-
-1. Van Buuren, S. (2018). [Flexible Imputation of Missing Data. Second Edition.](https://stefvanbuuren.name/fimd/). Chapman & Hall/CRC. Boca Raton, FL.
+1. [D-score calculator](http://tnochildhealthstatistics.shinyapps.io/dcalculator/)
 
 ### Software
 
-1. [`mice`: Multivariate Imputation by Chained Equations](https://amices.org/mice/)
-2. [`ggmice`: Visualizations for `mice` with `ggplot2`](https://amices.org/ggmice/)
-
-### Course materials
-
-1. [Handling Missing Data in R with mice](https://amices.github.io/Winnipeg/)
-2. [Statistical Methods for combined data sets](https://stefvanbuuren.github.io/RECAPworkshop/)
+1. [`dscore`: D-Score for Child Development](https://d-score.org/dscore/)
+2. [`gsedread`: Tools for reading GSED validation data](https://d-score.org/gsedread/)
+3. [`gsedscripts`: Analysis scripts for GSED validation data](https://d-score.org/gsedscripts/)
 
 ### Vignettes
 
-1. [Ad hoc methods and the MICE algorithm](https://gerkovink.github.io/miceVignettes/Ad_hoc_and_mice/Ad_hoc_methods.html)
-2. [Convergence and pooling](https://gerkovink.github.io/miceVignettes/Convergence_pooling/Convergence_and_pooling.html)
-3. [Inspecting how the observed data and missingness are related](https://gerkovink.github.io/miceVignettes/Missingness_inspection/Missingness_inspection.html)
-4. [Passive imputation and post-processing](https://gerkovink.github.io/miceVignettes/Passive_Post_processing/Passive_imputation_post_processing.html)
-5. [Imputing multilevel data](https://gerkovink.github.io/miceVignettes/Multi_level/Multi_level_data.html)
-6. [Sensitivity analysis with `mice`](https://gerkovink.github.io/miceVignettes/Sensitivity_analysis/Sensitivity_analysis.html)
-7. [Generate missing values with `ampute`](https://rianneschouten.github.io/mice_ampute/vignette/ampute.html)
+1. [Getting started](https://d-score.org/dscore/articles/getting_started.html)
+2. [Scoring GSED](https://d-score.org/dscore/articles/scoring_GSED.html)
 
-### Code from publications
+### Data
 
-1. [Flexible Imputation of Missing Data. Second edition.](https://github.com/stefvanbuuren/FIMD2/tree/master/R)
+1. [`childdevdata`: Child Development Data](https://d-score.org/childdevdata/)
+
+### Books
+
+1. van Buuren S, Eekhout I. *Child development with the D-score: turning milestones into measurement*. [Gates Open Research](https://gatesopenresearch.org/articles/5-81), (5), 81, 2021. DOI: 10.12688/gatesopenres.13222.2. [Screen friendly](https://d-score.org/dbook1/).
+2. Eekhout I, van Buuren S. *Child development with the D-score: tuning instruments to unity. [Gates Open Research](https://gatesopenresearch.org/articles/5-86), (5), 86, 2021. DOI: 10.12688/gatesopenres.13223.1. [Screen friendly](https://d-score.org/dbook2/).
+
+### D-score articles
+
+1. Jacobusse G, van Buuren S, Verkerk PH. *An interval scale for development of children aged 0-2 years*. Statistics in Medicine, 25(13), 2272--2283, 2006. [pdf](https://stefvanbuuren.name/publications/Interval%20scale%20-%20Stat%20Med%202006.pdf)
+2. Jacobusse G, van Buuren S. Computerized adaptive testing for measuring development of young children. Statistics in Medicine, 13(26), 2629--2638, 2007. [pdf](https://stefvanbuuren.name/publications/CAT%20for%20development%20-%20Stat%20Med%202007.pdf)
+3. van Buuren S. *Growth charts of human development*. Statistical Methods in Medical Research, 23(4), 346--368, 2014. [pdf](https://stefvanbuuren.name/publications/2014%20Growth%20charts%20for%20development%20-%20SMMR.pdf)
+
